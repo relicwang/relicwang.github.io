@@ -1,7 +1,7 @@
 
 <!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
-I am currently a PhD student in the <a href="https://www.nottingham.edu.cn/en/science-engineering/departments-schools/cs/home.aspx">Department of Computer Science</a> at the University of the Nottingham Ningbo China (UNNC). 
+I am currently a PhD student in the <a href="https://www.nottingham.edu.cn/en/science-engineering/departments-schools/cs/home.aspx">Department of Computer Science</a> at the <a href="https://www.nottingham.edu.cn/en/index.aspx">University of the Nottingham Ningbo China</a> (UNNC). 
 
 I received my master’s degree in Computer Science from Northwestern University (US) and bachelor’s degree in Computer Science with minor in Mathematical Science at Wenzhou-Kean University (WKU). Prior to starting my PhD journal, I joined Wenzhou-Kean University (WKU) from 2019 to 2022 as a lecturer and then as an adjunct professor till 2023. I have been affiliated with Center on Innovation and Assistive Technology for Autism & Neurodevelopmental Disorders directed by Dr. Tiffany Y. Tang since 2015. 
 
@@ -14,8 +14,8 @@ Our recently accepted workshop in UbiComp 2024 on the topic of Interactive Desig
 <!-- The courses I taught cover diverse levels including Fundamentals of Computer Science (Recognized as Zhejiang Provincial Level First-Class Course), Computer Organ. & Programming, Database Management Systems, Computer Systems, Intro. to Unix/Linux, and Python Programming.
 I was awarded with one China national scholarship (the first student in WKU), three times university level first-class scholarship and extra-curricular scholarship. And numerous awards from Microsoft national and international level competitions. -->
 
-#### Email
-yongfu.wang[at]nottingham.edu.cn
+<!-- #### Email
+yongfu.wang[at]nottingham.edu.cn -->
 
 
 
