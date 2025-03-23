@@ -133,6 +133,13 @@ section .main-body{
 
 
 /* Bio Section Styles */
+.main-body {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
 .bio-section {
     display: flex;
     align-items: center;
@@ -147,6 +154,11 @@ section .main-body{
     color: #333;
     max-width: 60%;
 }
+
+.bio-image {
+    width: 40%;
+}
+
 
 .bio-image img {
     /* width: 150px;
