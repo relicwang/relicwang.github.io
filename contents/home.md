@@ -1,7 +1,7 @@
 
 <!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
-My name is Yongfu (Relic) Wang, I am currently a PhD student in the <a href="https://www.nottingham.edu.cn/en/science-engineering/departments-schools/cs/home.aspx">Department of Computer Science</a> at the University of the Nottingham Ningbo China (UNNC). 
+I am currently a PhD student in the <a href="https://www.nottingham.edu.cn/en/science-engineering/departments-schools/cs/home.aspx">Department of Computer Science</a> at the University of the Nottingham Ningbo China (UNNC). 
 
 I received my master’s degree in Computer Science from Northwestern University (US) and bachelor’s degree in Computer Science with minor in Mathematical Science at Wenzhou-Kean University (WKU). Prior to starting my PhD journal, I joined Wenzhou-Kean University (WKU) from 2019 to 2022 as a lecturer and then as an adjunct professor till 2023. I have been affiliated with Center on Innovation and Assistive Technology for Autism & Neurodevelopmental Disorders directed by Dr. Tiffany Y. Tang since 2015. 
 
