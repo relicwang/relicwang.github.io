@@ -179,7 +179,7 @@ section .main-body{
     position: relative;
     /* height: 0; */
     /* top: min(-65px, max(-100px, calc(-1 * 100vw / 12))); */
-    margin-top: min(-30px, max(-100px, calc(-1 * 100vw / 12))); /* Move image up */
+    margin-top: min(-30px, max(-30px, calc(-1 * 100vw / 12))); /* Move image up */
     margin-left: 1.5rem; 
 
     z-index: 9000; 
