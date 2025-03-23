@@ -122,10 +122,10 @@ section .main-body{
 }
 
 /* Added sectio for remove link color */
-a {
+/* a {
     color: inherit;
   }
-
+ */
 
 /* Added CSS for bio section */
 /* .container {
