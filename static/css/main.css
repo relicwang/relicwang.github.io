@@ -105,7 +105,9 @@ section .main-body{
 
 @media screen and (max-width: 991px) {
     #avatar {
-        margin: 0;
+        /* margin: 0; */
+        position: relative;
+        top: 20px; /* Move the photo down by 20px */
     }
 }
 
