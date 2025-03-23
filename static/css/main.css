@@ -177,10 +177,12 @@ section .main-body{
 
     /* Try2 to align image to the top of h2 */
     position: relative;
-    height: 0;
-    top: min(-65px, max(-100px, calc(-1 * 100vw / 12)));
-    margin-left: 1.5rem; /* Space from text */
-    z-index: 9000;
+    /* height: 0; */
+    /* top: min(-65px, max(-100px, calc(-1 * 100vw / 12))); */
+    margin-top: min(-65px, max(-100px, calc(-1 * 100vw / 12))); /* Move image up */
+    margin-left: 1.5rem; 
+
+    /* z-index: 9000; */
 }
 
 
