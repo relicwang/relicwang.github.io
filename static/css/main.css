@@ -99,15 +99,22 @@ section .main-body{
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    /* height: max(130px,min(200px,calc(100vw/6)));
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2); */
+
+    /*Adjust to avoid the obscuring with other elements */
+    max-width: 100%; /* Ensure the photo doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Optional: Add rounded corners */
 }
 
 @media screen and (max-width: 991px) {
     #avatar {
-        /* margin: 0; */
-        position: relative;
-        top: 20px; /* Move the photo down by 20px */
+        margin: 0;
+
+        /* Move the photo down by 20px */
+        /* position: relative;
+        top: 20px;  */
     }
 }
 
