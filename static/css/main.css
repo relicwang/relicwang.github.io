@@ -165,9 +165,9 @@ section .main-body{
     height: 150px;
     border-radius: 50%;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); */
-    width: 100%;
+    width: 50%;
     height: auto; /* Maintains the aspect ratio */
-    border-radius: 8px; /* Optional: Adds slight rounding of corners */
+    border-radius: 6px; /* Optional: Adds slight rounding of corners */
 }
 
 @media (max-width: 768px) {
