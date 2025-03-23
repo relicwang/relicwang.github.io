@@ -149,10 +149,13 @@ section .main-body{
 }
 
 .bio-image img {
-    width: 150px;
+    /* width: 150px;
     height: 150px;
     border-radius: 50%;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); */
+    width: 100%;
+    height: auto; /* Maintains the aspect ratio */
+    border-radius: 8px; /* Optional: Adds slight rounding of corners */
 }
 
 @media (max-width: 768px) {
