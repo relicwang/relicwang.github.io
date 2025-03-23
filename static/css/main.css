@@ -133,11 +133,11 @@ section .main-body{
 
 
 /* Bio Section Styles */
-.main-body {
+/* .main-body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
+} */
 
 
 .bio-section {
