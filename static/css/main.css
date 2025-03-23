@@ -145,7 +145,7 @@ section .main-body{
     object-fit: cover;
 } */
  
-.container {
+/* .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -170,4 +170,4 @@ section .main-body{
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
-}
+} */
