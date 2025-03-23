@@ -157,6 +157,9 @@ section .main-body{
 
 .bio-image {
     width: 40%;
+
+    /* Try to align image to the top of h2 */
+    align-self: flex-start; /* Aligns only the image div to the top */
 }
 
 
