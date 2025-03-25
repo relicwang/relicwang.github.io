@@ -7,15 +7,15 @@
 - First-Prize Scholarship, WKU, 2013-2015 (Awarded for Three Consecutive Years)
 - Extracurricular Scholarship, WKU, 2013-2015 (Awarded for Three Consecutive Years) -->
 
-## Academic & Teaching Excellence  
+#### Academic & Teaching Excellence  
 - **Zhejiang Provincial-Level First-Class Course**, 2021 (*Instructor*)  
 
-## Honors & Awards  
+#### Honors & Awards  
 - **China National Scholarship**, 2014 (*First Recipient from WKU*)  
 - **First-Prize Scholarship**, WKU, 2013-2015 (*Awarded for Three Consecutive Years*)  
 - **Extracurricular Scholarship**, WKU, 2013-2015 (*Awarded for Three Consecutive Years*)  
 
-## Competitions & Innovation  
+#### Competitions & Innovation  
 - **Microsoft Imagine Cup – First Prize**, China Region, 2017 (*Team Leader*)  
 - **Microsoft Kinect National Cup Competition – Third Prize**, 2014 (*Team Leader & Presenter*)  
 - **7th Ningbo National Youth Student Entrepreneurship Competition – Silver Prize (Final Round)**, 2024 (*Team Leader & Presenter*)  
