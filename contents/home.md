@@ -9,7 +9,7 @@ My recent research focuses on human-computer interaction (HCI), affective comput
 
 <!-- Previously, I am honored to be cooperated with <a href="https://ics.uci.edu/~ampiper/">Prof. Anne Marie Piper</a> (UCI),  <a href="https://csmt.wku.edu.cn/en/node/1830">Prof. Tiffany Tang</a> (WKU), and <a href="https://csmt.wku.edu.cn/en/node/1829">Prof. Pinata Winoto</a> (WKU). -->
 
-Our workshop on the topic of <i>Interactive Design with Autistic Children Using LLM and IoT for Personalized Training: The Good, The Bad and The Challenging</i> was accepted in <i>UbiComp 2024</i>. Visit our workshop site for more information: https://idwac.github.io/.
+Our workshop on the topic of <i>Interactive Design with Autistic Children Using LLM and IoT for Personalized Training: The Good, The Bad and The Challenging</i> was accepted in <a href="https://www.ubicomp.org/ubicomp-iswc-2024/conference-program/"><i>UbiComp 2024</i></a>. Visit our workshop site for more information: https://idwac.github.io/.
 
 <!-- The courses I taught cover diverse levels including Fundamentals of Computer Science (Recognized as Zhejiang Provincial Level First-Class Course), Computer Organ. & Programming, Database Management Systems, Computer Systems, Intro. to Unix/Linux, and Python Programming.
 I was awarded with one China national scholarship (the first student in WKU), three times university level first-class scholarship and extra-curricular scholarship. And numerous awards from Microsoft national and international level competitions. -->
