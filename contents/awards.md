@@ -23,7 +23,7 @@
 - **8th ‘Maker China’ Ningbo SME Innovation & Entrepreneurship Competition (Advanced Manufacturing) – Third Prize**, 2023 (*Team Leader & Presenter*)  
 
 #### Media Interview:  
-- Interviewed by *China Daily* (2020) [[China Daily]](http://www.chinadaily.com.cn/a/202011/30/WS5fc44d09a31024ad0ba9846f_2.html)
+- Interviewed by *China Daily* on topic of <a href="http://www.chinadaily.com.cn/a/202011/30/WS5fc44d09a31024ad0ba9846f_2.html">"*Female software engineers start getting with the program*"</a>, 2020
 
 <!-- - **Academic & Teaching Excellence**  
     - **Zhejiang Provincial-Level First-Class Course**, 2021 (*Instructor*)  
